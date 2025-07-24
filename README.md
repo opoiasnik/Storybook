@@ -2,7 +2,6 @@
 
 A modern, accessible React component library built with **TypeScript**, **Tailwind CSS**, and **Storybook**. This library provides three essential UI components: Input, Toast, and SidebarMenu.
 
-![Storybook UI](./screenshots/storybook-ui.png)
 
 ## 🚀 Features
 
@@ -28,7 +27,6 @@ A versatile input component with multiple variants and enhanced functionality.
 - Helper text and labels
 - Disabled and read-only states
 
-![Input Component States](./screenshots/input-states.png)
 
 ### 🔔 Toast Component
 
@@ -42,7 +40,6 @@ A notification toast component with smooth animations and auto-dismiss functiona
 - Smooth fade and slide animations
 - Accessible with ARIA live regions
 
-![Toast Component Types](./screenshots/toast-types.png)
 
 ### 📚 Sidebar Menu Component
 
@@ -57,7 +54,6 @@ A sliding sidebar menu with nested navigation and accordion-style submenus.
 - Customizable width and positioning
 - Icons support for menu items
 
-![Sidebar Menu States](./screenshots/sidebar-states.png)
 
 ## 🛠️ Setup Instructions
 
